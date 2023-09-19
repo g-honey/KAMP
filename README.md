@@ -10,5 +10,5 @@ Put the original datasets together.
 
 I've also posted the actual presentation.  
 I also added a watermark just in case, but if you need a watermark-free version, please email me.  
-My email is g.hyeon@seoultech.ac.kr or other team member's email is ekdlsds0725@ds.seoultech.ac.kr.
+My email is g.hyeon@seoultech.ac.kr or other team member's email is dsekdls725@seoultech.ac.kr.
   
