@@ -19,14 +19,14 @@ My email is g.hyeon@seoultech.ac.kr or other team member's email is dsekdls725@s
 데이터는 https://mdata.kamp-ai.kr/ 에 공개되어 있음.  
 본 내용을 통해 공모전 입상 후 최우수상 수상.  
 
-Feature Importance.ipynb :  
+- Feature Importance.ipynb :  
 이상치를 직접 탐지하여 데이터를 수정하고, decision tree를 사용 해 feature importance를 뽑을 수 있었다.   
   
-EDA, ML/이상치 제거_1 ... 이상치 제거_6 :  
+- EDA, ML/이상치 제거_1 ... 이상치 제거_6 :  
 이상치를 제거 한 데이터를 가지고 시계열 딥러닝 분석 방법 적용.  
 LSTM, GRU, TCN등을 사용하여 각각 레이어를 다르게 쌓았을 때 정확도의 변화를 볼 수 있다.  
   
-EDA, ML/이상치 제거_7 ... 이상치 제거_8 :  
+- EDA, ML/이상치 제거_7 ... 이상치 제거_8 :  
 가장 성능이 좋은 시계열 방법과 레이어를 가지고 전체 데이터에 대해 사후확률(posterior probability)을 받아온다. 
 2-fold 테스트를 수행하여 전체 데이터에 대한 사후확률을 받아오고 가공하여 새로운 데이터를 생성한다.  
 새롭게 생성한 데이터를 가지고 decision tree를 만들어 규칙을 생성한다.  
